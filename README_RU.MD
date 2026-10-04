@@ -58,7 +58,7 @@ hw -l              # список языков
 
 ```
 git clone <repo-url>
-cd hw
+cd hw/rust/
 cargo install --path .
 ```
 
