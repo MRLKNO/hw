@@ -1,0 +1,12 @@
+[package]
+name = "hw"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["MRLKNO <usysuaiagwo@tuta.io>"]
+
+[dependencies]
+
+[package.metadata.deb]
+section = "devel"
+priority = "optional"

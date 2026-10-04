@@ -1,0 +1,16 @@
+rust/target/
+
+**/*.rs.bk
+
+.idea/
+*.iml
+
+.vscode/
+!.vscode/extensions.json
+
+.vs/
+
+.DS_Store
+
+Thumbs.db
+desktop.ini
